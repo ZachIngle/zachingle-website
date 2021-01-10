@@ -97,3 +97,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+Domain names:
+ * zachingle.com - The main domain name where the website is hosted on
+ * zingle.dev - Another domain name that is easier to use for links and quote. Redirect to zachingle.com
